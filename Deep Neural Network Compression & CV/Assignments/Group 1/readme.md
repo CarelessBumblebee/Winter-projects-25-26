@@ -1,8 +1,8 @@
-## Group 1
+# Group 1
 
-# Group Leader - Archisman Dhar (240170)
+## Group Leader - Archisman Dhar (240170)
 
-# Team Members:-
+## Team Members:-
 
 1. Surya Prakash Pingali (241067)
 
